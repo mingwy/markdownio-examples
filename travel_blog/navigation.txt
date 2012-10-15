@@ -1,0 +1,7 @@
+[Home](index.txt)
+[Zoo](articles/zoo.txt)
+[Museum of national history](articles/museum.txt)
+[Boat cruise](articles/boat.txt)
+[Royal palace](articles/royalpalace.txt)
+
+[gimmick:Disqus](markdowniowiki)

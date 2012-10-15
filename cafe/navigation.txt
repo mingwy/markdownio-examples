@@ -1,0 +1,7 @@
+[Home](index.txt)
+
+[Menu](menu.txt)
+[Lunch specials](specials.txt)
+
+[Contact](contact.txt)
+[Guestbook](guestbook.txt)
