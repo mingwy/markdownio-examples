@@ -1,0 +1,22 @@
+#### By [Ewout van den Bery](http://www.cs.ubc.ca/~ewout78) and [Michael P. Friedlander](http://www.cs.ubc.ca/~mpf)
+
+Linear operators are at the core of many of the most basic algorithms
+for signal and image processing. Matlab's high-level, matrix-based
+language allows us to naturally express many of the underlying matrix
+operations (e.g., computation of matrix-vector products and
+manipulation of matrices) and is thus a powerful platform on which to
+develop concrete implementations of these algorithms. Many of the most
+useful operators, however, do not lend themselves to the explicit
+matrix representations that Matlab provides. The aim of the Spot
+Toolbox is to bring the expressiveness of Matlab's built-in matrix
+notation to problems for which explicit matrices are not practical.
+
+Here's simple example that shows how Spot operator primitives can be
+stitched together using familiar Matlab commands to form more complex
+operators:
+
+[](include:code_sample.txt)
+
+Download
+-
+Verison 1.2, January 12,2013: [spotbox-v1.2.zip](http://www.cs.ubc.ca/labs/scl/spot/spotbox-v1.2.zip)

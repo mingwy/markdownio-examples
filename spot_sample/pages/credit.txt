@@ -1,0 +1,20 @@
+#Spot - License & Credits
+----------
+
+##License
+Spot is free software, and is distributed under the [GNU Public License](http://www.gnu.org/copyleft/gpl.html). You are free to modify and redistribute the software.
+
+## Credits:
+Spot makes extensive use of several free-software packages:
+
+- the unit tests are possible via the Matlab xUnit Test Framework
+- the wavelet transforms are computed via the Rice Wavelet Toolbox
+- these web pages are maintained using markdown
+
+Spot is a complete rewrite of the operator library originally found in the Sparco Toolbox. The following individuals contributed to that package:
+
+- [Gilles Hennenfent](http://wigner.eos.ubc.ca/~hegilles/)
+- [Felix Herrmann](http://www.eos.ubc.ca/~felix/)
+- [Rayan Saab](http://www.ece.ubc.ca/~rayans/)
+- [Ozgur Yilmaz](http://www.math.ubc.ca/~oyilmaz/)
+- Clement Pajean

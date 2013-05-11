@@ -1,0 +1,15 @@
+#Spot - Contribute
+----------
+
+##Feedback 
+We would be delighted to hear from you if you find Spot useful, have suggestions, or would like to report a bug. Please send these to
+
+- [Michael P. Friedlander](mailto:mpf@cs.ubc.ca)
+- [Ewout van den Berg](mailto:ewout78@cs.ubc.ca)
+ 
+
+##Development
+If you would like to help develop Spot by fixing bugs, adding features, or improving the documentation, you can [find the Spot repository on GitHub](https://github.com/mpf/spot/). To get your own copy of the Spot code to work on, make an account on GitHub, [set up Git](http://help.github.com/set-up-git-redirect/), then [fork the repository](http://help.github.com/fork-a-repo/). You can then update your copy by “pushing” and “pulling”. When you’ve made a change that you think we’d like, send us a “pull request” so we can see the change and update our copy.
+ 
+To simply receive updates about changes to Spot, you can [“watch” the project](https://github.com/mpf/spot/) on GitHub – that way you don’t get a copy of the code.
+
